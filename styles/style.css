@@ -57,8 +57,8 @@ section {
 }
 
 img {
-    width: 60vw;
-    height: 40vw;
+    width: 50vw;
+    height: 30vw;
 }
 .pic {
     display: flex;
